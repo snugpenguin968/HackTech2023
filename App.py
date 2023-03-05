@@ -13,7 +13,7 @@ st.markdown(
          - Average retail price of solar-based electricity ($)
          - Average monthly temperature (°F)
          - Political affiliation - check the description of this [image](https://en.wikipedia.org/wiki/File:Red_state,_blue_state.svg)
-         - Median household income
+         - Median household income ($)
          """)
 st.write('Based on this data, it is possible to predict whether or not someone in a certain state in a certain month will start using solar-based energy or continue with their current non-renewable energy source.')
 with st.form('input'):
